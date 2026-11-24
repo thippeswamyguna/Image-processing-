@@ -1,0 +1,16 @@
+{
+  "fbp_views10_psnr": 10.403484692359307,
+  "fbp_views10_ssim": 0.34232160372437487,
+  "fbp_views4_psnr": 8.527256014513995,
+  "fbp_views4_ssim": 0.21695225928163445,
+  "fbp_views5_psnr": 8.771497715443976,
+  "fbp_views5_ssim": 0.23424744268255032,
+  "learned_views10_psnr": 22.512801737908255,
+  "learned_views10_ssim": 0.7799895502235152,
+  "learned_views4_psnr": 17.02224001248779,
+  "learned_views4_ssim": 0.5267444969231851,
+  "learned_views5_psnr": 18.298989699847546,
+  "learned_views5_ssim": 0.5785536800472502,
+  "n_test": 624,
+  "checkpoint_epoch": 17
+}
