@@ -8,7 +8,9 @@ This project explores sparse-view reconstruction in a controlled **synthetic 2D 
 
 ## Project website
 
-The repository includes a responsive project overview website in `index.html`. Once GitHub Pages is enabled for this repository, it presents the project overview, original-versus-reconstruction examples, measured results, epoch comparison, and download links.
+The responsive project overview website in `index.html` presents the project overview, original-versus-reconstruction examples, measured results, epoch comparison, and download links.
+
+Live website: <https://thippeswamyguna.github.io/Image-processing-/>
 
 The interactive image-upload demo is `app.py`. To run it locally, install the requirements and start Streamlit:
 
